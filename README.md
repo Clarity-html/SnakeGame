@@ -3,7 +3,7 @@ A simple Snake game built in Python using the turtle module.
 
 **Snake Game** 🐍
 
-
+![Gameplay](snake_gameplay.gif)
 
 This is a custom variant of the classic Snake game, developed as part of Dr. Angela Yu’s course, “_100 Days of Code: The Complete Python Pro Bootcamp_”.
 
