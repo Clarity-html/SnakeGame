@@ -30,7 +30,7 @@ The core gameplay remains true to the original, including snake movement, food g
 ### **Installation & Usage**
 
 **1. Download the game files**  
-  Click the green Code button and choose Download ZIP.
+  Click the Code<> button and choose Download ZIP.
 
 **2. Extract the files (if downloaded as ZIP).**   
 
