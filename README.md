@@ -5,7 +5,7 @@ A simple Snake game built in Python using the turtle module.
 
 ![Gameplay](snake_gameplay.gif)
 
-This is a custom variant of the classic Snake game, developed as part of Dr. Angela Yu’s course, “_100 Days of Code: The Complete Python Pro Bootcamp_”.
+This is a custom variant of the classic Snake game, developed as part of [Dr. Angela Yu’s "100 Days of Code: The Complete Python Pro Bootcamp"](https://www.udemy.com/course/100-days-of-code/).
 
 The core gameplay remains true to the original, including snake movement, food generation, and the scoring system, with several enhancements and modifications:
 
